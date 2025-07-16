@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
 # 🌟 Welcome to WhatsApp Channel Selling Service! 🌟
-
+</div>
 ### 💼 OUR SERVICES:
 • 📈 Premium WhatsApp Channels
 • 👥 Verified Subscriber Base
