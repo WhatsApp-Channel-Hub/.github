@@ -23,14 +23,19 @@
 • 📱 Phone: +94 78 446 4128
 • 📧 Email: inbox.ashen@gmail.com
 • 💬 WhatsApp: +94 78 446 4128
-• 🌐 Website: (WhatsApp-Channel-Hub.github.io)[https://WhatsApp-Channel-Hub.github.io]
+• 🌐 Website: https://WhatsApp-Channel-Hub.github.io
 
 <div align="center">
-🎉 READY TO SCALE YOUR BUSINESS? 🎉
+<h2>
+  🎉 READY TO SCALE YOUR BUSINESS? 🎉
+</h2>
 
-### 💎 Premium Quality • Best Prices • Instant Results 💎
-
-### ⚡ GET STARTED TODAY! ⚡
+<h3>
+  💎 Premium Quality • Best Prices • Instant Results 💎
+</h3>  
+<h2>
+  ⚡ GET STARTED TODAY! ⚡
+</h2>
 </div>
 
 
