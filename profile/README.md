@@ -5,25 +5,25 @@
 </h1>
 </div>
 <h3> 💼 OUR SERVICES: </h3>
-• 📈 Premium WhatsApp Channels
-• 👥 Verified Subscriber Base
-• 🎯 Targeted Audiences
-• 💰 Best Market Prices
-• 🔒 100% Secure Deals
-• 📊 Performance Analytics
+• 📈 Premium WhatsApp Channels <br>
+• 👥 Verified Subscriber Base <br>
+• 🎯 Targeted Audiences <br>
+• 💰 Best Market Prices <br>
+• 🔒 100% Secure Deals <br>
+• 📊 Performance Analytics <br>
 
 <h3> ✨ WHY CHOOSE US: </h3>
-• ⭐ 5-Star Rated Service
-• 🚀 Lightning Fast Delivery
-• 💯 Authentic Channels Only
-• 🛡️ Money-Back Guarantee
-• 📞 24/7 Premium Support
+• ⭐ 5-Star Rated Service <br>
+• 🚀 Lightning Fast Delivery <br>
+• 💯 Authentic Channels Only <br>
+• 🛡️ Money-Back Guarantee <br>
+• 📞 24/7 Premium Support <br>
 
 <h3> 📞 CONTACT US NOW: </h3> 
-• 📱 Phone: +94 78 446 4128
-• 📧 Email: inbox.ashen@gmail.com
-• 💬 WhatsApp: +94 78 446 4128
-• 🌐 Website: https://WhatsApp-Channel-Hub.github.io
+• 📱 Phone: +94 78 446 4128 <br>
+• 📧 Email: inbox.ashen@gmail.com <br>
+• 💬 WhatsApp: +94 78 446 4128 <br>
+• 🌐 Website: https://WhatsApp-Channel-Hub.github.io <br>
 
 <div align="center">
 <h2>
