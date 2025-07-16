@@ -4,7 +4,7 @@
   🌟 Welcome to WhatsApp Channel Selling Service! 🌟
 </h1>
 </div>
-### 💼 OUR SERVICES:
+<h3> 💼 OUR SERVICES: </h3>
 • 📈 Premium WhatsApp Channels
 • 👥 Verified Subscriber Base
 • 🎯 Targeted Audiences
@@ -12,18 +12,19 @@
 • 🔒 100% Secure Deals
 • 📊 Performance Analytics
 
-### ✨ WHY CHOOSE US:
+<h3> ✨ WHY CHOOSE US: </h3>
 • ⭐ 5-Star Rated Service
 • 🚀 Lightning Fast Delivery
 • 💯 Authentic Channels Only
 • 🛡️ Money-Back Guarantee
 • 📞 24/7 Premium Support
 
-### 📞 CONTACT US NOW:
+<h3> 📞 CONTACT US NOW: </h3> 
 • 📱 Phone: +94 78 446 4128
 • 📧 Email: inbox.ashen@gmail.com
 • 💬 WhatsApp: +94 78 446 4128
-• 🌐 Website: WhatsApp-Channel-Hub.github.io
+• 🌐 Website: (WhatsApp-Channel-Hub.github.io)[https://WhatsApp-Channel-Hub.github.io]
+
 <div align="center">
 🎉 READY TO SCALE YOUR BUSINESS? 🎉
 
